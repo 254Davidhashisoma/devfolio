@@ -1,0 +1,23 @@
+{
+  "name": "devportfolio",
+  "version": "1.0.0",
+  "description": "A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/254Davidhashisoma/devfolio.git"
+  },
+  "keywords": [],
+  "author": "David Hashisoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/254Davidhashisoma/devfolio/issues"
+  },
+  "homepage": "https://github.com/254Davidhashisoma/devfolio#readme"
+}
